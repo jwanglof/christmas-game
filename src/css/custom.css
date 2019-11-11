@@ -1,0 +1,25 @@
+.Site {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.Site-content {
+    flex: 1;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.hidden {
+    display: none;
+}
+
+.margin-bottom {
+    margin-bottom: 15px;
+}
+
+.title-margin-bottom {
+    margin-bottom: 30px;
+}
